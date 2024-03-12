@@ -6,3 +6,6 @@ Změna v oranžové větvi
 Druhá změna
 
 Třetí změna
+
+Změna v modré větvi
+
