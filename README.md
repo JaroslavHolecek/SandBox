@@ -6,3 +6,5 @@ Změna titulní strany
 
 Změna ve větvi IT_2023
 
+Konfliktní změna v master
+
